@@ -1,2 +1,2 @@
 # blockcycle
-DTU software technology project
+BlockCycle is a project developed by me and three other students at The Technical University of Denmark (DTU). It is a decentralized bike insurance which is written in Solidity and can be deployed on the Ethereum blockchain. It was only deployed on the testnetwork, but it worked well. The insurance mathematics of the project is non-existing and the sole focus is on blockchain technologies, smart contracts, the Ethereum network and writing in Solidity. Check the report for an in-depth understand of the system and blockchain in general.
